@@ -26,7 +26,7 @@ const greeting = {
       "A Passionate Beginner Student Software Developer 🚀: Building Web and Mobile Apps with Python, Java, Swift, and More!"
   ),
   resumeLink:
-      "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/bkh5433_psu_edu/EejXDNYYPl5MsmoamhRD-ewBLOY1HAQbDia0WTbzhUfdXg?e=WJKekF", // Set to empty to hide the button
+      "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/bkh5433_psu_edu/EejXDNYYPl5MsmoamhRD-ewBLOY1HAQbDia0WTbzhUfdXg?e=zVutJN", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CURRENT STUDENT SOFTWARE DEVELOPER LOOKING TO LEARN",
+  subTitle: "CURRENT STUDENT SOFTWARE DEVELOPER LOOKING TO LEARN AND EXPAND MY DEVELOPMENT SKILLS!",
   skills: [
     emoji(
         "⚡ Develop interactive Front end / User Interfaces for your web and mobile applications"
