@@ -229,7 +229,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/cerebroLogo.jpg"),
+      image: require("./assets/images/cerebroLogo.png"),
       projectName: "Cerebro",
       projectDesc: "Advanced Sabermetrics Data for Division 3 baseball players and teams. Built using Pyhton " +
           "and Streamlit and deployed on Streamlit Cloud." +
